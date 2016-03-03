@@ -5,127 +5,116 @@ How to link notes
 2. [How to stop it](#how-to-stop-it)
 
 #### How to draw it
-*This is how to link one to it
-*This is how to link one to it
+* This is how to link one to it
+* This is how to link one to it
 
 
 
-*This is how to link one to it
-
-
-
-
-
-*This is how to link one to it
-
-*This is how to link one to it
-*This is how to link one to it
-
-
-
-
-*This is how to link one to it
-*This is how to link one to it
-
-*This is how to link one to it
-*This is how to link one to it
-
-
-
-*This is how to link one to it
-
-*This is how to link one to it
-*This is how to link one to it
-
-*This is how to link one to it
-*This is how to link one to it
-
-
-
-*This is how to link one to it
+* This is how to link one to it
 
 
 
 
 
-*This is how to link one to it
+* This is how to link one to it
 
-*This is how to link one to it
-*This is how to link one to it
-
-
-
-
-*This is how to link one to it
-*This is how to link one to it
-
-*This is how to link one to it
-*This is how to link one to it
+* This is how to link one to it
+* This is how to link one to it
 
 
 
-*This is how to link one to it
 
-*This is how to link one to it
+* This is how to link one to it
+* This is how to link one to it
+
+* This is how to link one to it
+* This is how to link one to it
+
+
+
+* This is how to link one to it
+
+* This is how to link one to it
+* This is how to link one to it
+
+* This is how to link one to it
+* This is how to link one to it
+
+
+
+* This is how to link one to it
+
+
+
+
+
+* This is how to link one to it
+
+* This is how to link one to it
+* This is how to link one to it
+
+
+
+
+* This is how to link one to it
+* This is how to link one to it
+
+* This is how to link one to it
+* This is how to link one to it
+
+
+
+* This is how to link one to it
+
+* This is how to link one to it
 *This is how to link one to it
 
 #### How to stop it
-*Link this to 2
-*Link this to 2
+* Link this to 2
+* Link this to 2
 
 
-*Link this to 2
-
-
-
-*Link this to 2
-*Link this to 2
-
-*Link this to 2
-*Link this to 2
-*Link this to 2
-*Link this to 2
-*Link this to 2
-*Link this to 2
-
-
-*Link this to 2
+* Link this to 2
 
 
 
-*Link this to 2
-*Link this to 2
+* Link this to 2
+* Link this to 2
 
-*Link this to 2
-*Link this to 2
-*Link this to 2
-*Link this to 2
-*Link this to 2
-*Link this to 2
+* Link this to 2
+* * Link this to 2
+* Link this to 2
 
 
-*Link this to 2
+* Link this to 2
 
 
 
-*Link this to 2
-*Link this to 2
+* Link this to 2
+* Link this to 2
 
-*Link this to 2
-*Link this to 2
-*Link this to 2
-*Link this to 2
-*Link this to 2
+* Link this to 2
+* * Link this to 2
+* Link this to 2
 
 
-*Link this to 2
+* Link this to 2
 
 
 
-*Link this to 2
-*Link this to 2
+* Link this to 2
+* Link this to 2
 
-*Link this to 2
-*Link this to 2
-*Link this to 2
-*Link this to 2
+* Link this to 2
+* * Link this to 2
+* Link this to 2
+
+
+* Link this to 2
+
+
+
+* Link this to 2
+* Link this to 2
+
+* Link this to 2
